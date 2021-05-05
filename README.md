@@ -1,6 +1,6 @@
 # plating_two_videos
 
-A new Flutter project.
+How to play two or more videos simultaneously in Flutter
 
 ## Getting Started
 
